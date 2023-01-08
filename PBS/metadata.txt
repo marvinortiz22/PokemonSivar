@@ -162,7 +162,7 @@ Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [042]
-# san miguel
+# Pueblo chafa
 SnapEdges=true
 [044]
 # Ruta 6
@@ -307,9 +307,20 @@ Outdoor=true
 [077]
 # Cabañas
 SnapEdges=true
+Bicycle=true
+ShowArea=true
 [078]
 # Santa Ana
 SnapEdges=true
+Bicycle=true
+ShowArea=true
 [079]
 # La Libertad
 SnapEdges=true
+Bicycle=true
+ShowArea=true
+[080]
+# San Miguel
+SnapEdges=true
+Bicycle=true
+ShowArea=true
