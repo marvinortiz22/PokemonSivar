@@ -323,4 +323,6 @@ ShowArea=true
 # San Miguel
 SnapEdges=true
 Bicycle=true
+MapPosition=0,20,14
+HealingSpot=80,39,19
 ShowArea=true
