@@ -31,7 +31,7 @@ ShowArea=true
 # Casa de Kurt
 MapPosition=0,13,11
 [007]
-# Ciudad Milanesa
+# Soyapango
 MapSize=2,11
 MapPosition=0,13,10
 Outdoor=true
@@ -83,6 +83,14 @@ MapSize=1,11
 Weather=Rain,50
 MapPosition=0,14,8
 Outdoor=true
+ShowArea=true
+[022]
+# UES
+SnapEdges=true
+Bicycle=true
+MapPosition=0,12,8
+Outdoor=true
+HealingSpot=22,53,32
 ShowArea=true
 [023]
 # Chalatenango
@@ -303,7 +311,6 @@ MapPosition=0,12,10
 MapPosition=1,13,16
 Outdoor=true
 [076]
-# Soyapango
 [077]
 # Cabañas
 SnapEdges=true
