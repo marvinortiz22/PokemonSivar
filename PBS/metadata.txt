@@ -10,8 +10,10 @@ WildBattleBGM=002-Battle02.mid
 # Intro
 [002]
 # Pueblo Empanada
+SnapEdges=true
+Bicycle=true
 MapPosition=0,13,12
-Outdoor=true
+Outdoor=false
 ShowArea=true
 [003]
 # Casa de \PN
@@ -33,6 +35,8 @@ MapPosition=0,13,11
 [007]
 # Soyapango
 MapSize=2,11
+SnapEdges=true
+Bicycle=true
 MapPosition=0,13,10
 Outdoor=true
 ShowArea=true
@@ -80,7 +84,9 @@ MapPosition=0,13,10
 [021]
 # Ruta 2
 MapSize=1,11
+SnapEdges=true
 Weather=Rain,50
+Bicycle=true
 MapPosition=0,14,8
 Outdoor=true
 ShowArea=true
@@ -126,6 +132,8 @@ MapPosition=0,16,8
 [031]
 # Ruta 3
 MapSize=2,1101
+SnapEdges=true
+Bicycle=true
 MapPosition=0,14,6
 Outdoor=true
 ShowArea=true
@@ -165,6 +173,7 @@ ShowArea=true
 [041]
 # Ruta 5
 MapSize=1,111
+SnapEdges=true
 MapPosition=0,11,7
 Outdoor=true
 BicycleAlways=true
@@ -191,8 +200,10 @@ MapPosition=0,12,6
 [047]
 # Ruta 7
 MapSize=2,11
+SnapEdges=true
 BattleBack=Mountain
 Weather=Rain,0
+Bicycle=true
 MapPosition=0,15,10
 Outdoor=true
 ShowArea=true
@@ -280,8 +291,10 @@ Outdoor=true
 ShowArea=true
 [069]
 # Ruta 8
+SnapEdges=true
 DiveMap=70
 BattleBack=Field
+Bicycle=true
 MapPosition=0,13,13
 Outdoor=true
 ShowArea=true
@@ -311,6 +324,11 @@ MapPosition=0,12,10
 MapPosition=1,13,16
 Outdoor=true
 [076]
+# El Espino
+SnapEdges=true
+Bicycle=true
+Outdoor=true
+ShowArea=true
 [077]
 # Cabañas
 SnapEdges=true
@@ -332,4 +350,10 @@ SnapEdges=true
 Bicycle=true
 MapPosition=0,20,14
 HealingSpot=80,39,19
+ShowArea=true
+[081]
+# San Salvador
+SnapEdges=true
+Bicycle=true
+Outdoor=true
 ShowArea=true
