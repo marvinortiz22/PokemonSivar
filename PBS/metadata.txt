@@ -10,10 +10,10 @@ WildBattleBGM=002-Battle02.mid
 # Intro
 [002]
 # Pueblo Empanada
-SnapEdges=true
+SnapEdges=false
 Bicycle=true
 MapPosition=0,13,12
-Outdoor=false
+Outdoor=true
 ShowArea=true
 [003]
 # Casa de \PN
@@ -25,7 +25,7 @@ HealingSpot=2,8,8
 MapPosition=0,13,12
 ShowArea=false
 [005]
-# Ruta 1
+# Ruta 10
 MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
@@ -82,10 +82,9 @@ MapPosition=0,13,10
 # Centro Comercial Ascensor
 MapPosition=0,13,10
 [021]
-# Ruta 2
+# Ruta 1
 MapSize=1,11
 SnapEdges=true
-Weather=Rain,50
 Bicycle=true
 MapPosition=0,14,8
 Outdoor=true
@@ -130,7 +129,7 @@ MapPosition=0,16,8
 # Sala Parque Natural
 MapPosition=0,16,8
 [031]
-# Ruta 3
+# Ruta 2
 MapSize=2,1101
 SnapEdges=true
 Bicycle=true
@@ -159,7 +158,7 @@ MapPosition=0,13,6
 # Hall de la Fama
 MapPosition=0,13,6
 [039]
-# Ruta 4
+# Ruta 7
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
@@ -171,7 +170,7 @@ Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [041]
-# Ruta 5
+# Ruta 6
 MapSize=1,111
 SnapEdges=true
 MapPosition=0,11,7
@@ -179,10 +178,9 @@ Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [042]
-# Pueblo chafa
 SnapEdges=true
 [044]
-# Ruta 6
+# Ruta 5
 MapSize=2,11
 MapPosition=0,11,10
 Outdoor=true
@@ -198,7 +196,7 @@ ShowArea=true
 Bicycle=true
 MapPosition=0,12,6
 [047]
-# Ruta 7
+# Ruta 3
 MapSize=2,11
 SnapEdges=true
 BattleBack=Mountain
@@ -290,8 +288,8 @@ SafariMap=true
 Outdoor=true
 ShowArea=true
 [069]
-# Ruta 8
-SnapEdges=true
+# Isla Conejo
+SnapEdges=false
 DiveMap=70
 BattleBack=Field
 Bicycle=true
@@ -311,7 +309,6 @@ MapPosition=0,18,17
 Outdoor=true
 ShowArea=true
 [073]
-# Isla Faraday
 MapPosition=0,22,16
 Outdoor=true
 ShowArea=true

@@ -11,7 +11,7 @@
 9,BIRDKEEPER,Ornitólogo,32,,,,Male,,
 10,BUGCATCHER,Cazabichos,16,,,,Male,,
 11,BURGLAR,Ladrón,88,,,,Male,32,
-12,CHANNELER,Exorcista,32,,,,Female,,
+12,CHANELLER,Exorcista,32,,,,Female,,
 13,CUEBALL,Calvo,24,,,,Male,,
 14,ENGINEER,Mecánico,48,,,,Male,,
 15,FISHERMAN,Pescador,32,,,,Male,,
