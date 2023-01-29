@@ -92,7 +92,7 @@
 90,KINDLER,Fogonero,30,,,,Male,,
 91,NINJA,Ninja,30,,,,Male,,
 92,CAMPEON,Campeón,100,elite,,,Male,255,
-93,DOCTOR,Doctor,60,,,,Male,,
+93,DOCTOR,Doctor,30,,,,Male,,
 94,JOVENTALENTO_MACHAPE,Joven talento,125,,,,Male,,
 95,JOVENTALENTO_DAVID,Joven talento,125,,,,Male,,
 96,JOVENTALENTO_OMAR,Joven talento,125,,,,Male,,
@@ -102,3 +102,4 @@
 100,JOVENTALENTO_ODONTO,Joven talento,125,,,,Male,,
 101,JOVENTALENTO_JOSUÉ,Joven talento,125,,,,Male,,
 102,AFICIONADOFAS,Aficionado FAS,30,,,,Male,,
+103,LA_SOMBRA,La Sombra,30,,,,Male,,
