@@ -103,3 +103,4 @@
 101,JOVENTALENTO_JOSUÉ,Joven talento,125,,,,Male,,
 102,AFICIONADOFAS,Aficionado FAS,30,,,,Male,,
 103,LA_SOMBRA,La Sombra,30,,,,Male,,
+104,LOS_CHICOS,Los chicos,30,,,,Male,,

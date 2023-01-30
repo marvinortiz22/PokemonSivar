@@ -9,7 +9,7 @@ WildBattleBGM=002-Battle02.mid
 [001]
 # Intro
 [002]
-# Pueblo Empanada
+# Isla Conejo
 SnapEdges=false
 Bicycle=true
 MapPosition=0,13,12
@@ -172,12 +172,14 @@ ShowArea=true
 [041]
 # Ruta 6
 MapSize=1,111
-SnapEdges=true
+SnapEdges=false
 MapPosition=0,11,7
+SafariMap=false
 Outdoor=true
 BicycleAlways=true
 ShowArea=true
 [042]
+# gimnasio
 SnapEdges=true
 [044]
 # Ruta 5
@@ -309,6 +311,7 @@ MapPosition=0,18,17
 Outdoor=true
 ShowArea=true
 [073]
+# gimnasio
 MapPosition=0,22,16
 Outdoor=true
 ShowArea=true

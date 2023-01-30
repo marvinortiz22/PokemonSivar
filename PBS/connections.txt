@@ -1,6 +1,7 @@
 # Route 8 (69) - Lappet Town (2)
 69,North,12,2,South,0
-# Route 5 (41) - Route 4 (40)
-41,North,0,40,South,0
-# Route 5 (41) - Route 6 (45)
-41,South,6,45,North,0
+# Route 5 (41) - Route 4 (39)
+41,North,0,39,South,0
+# Route 5 (41) - Route 6 (44)
+41,South,6,44,North,0
+
