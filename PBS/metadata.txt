@@ -25,7 +25,7 @@ HealingSpot=2,8,8
 MapPosition=0,13,12
 ShowArea=false
 [005]
-# Ruta 10
+# Ruta 13
 MapPosition=0,13,11
 Outdoor=true
 ShowArea=true
@@ -158,7 +158,7 @@ MapPosition=0,13,6
 # Hall de la Fama
 MapPosition=0,13,6
 [039]
-# Ruta 7
+# Ruta 8
 MapSize=2,11
 MapPosition=0,11,6
 Outdoor=true
@@ -167,22 +167,22 @@ ShowArea=true
 # Ruta 4
 MapPosition=0,11,6
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 [041]
-# Ruta 6
+# Ruta 7
 MapSize=1,111
 SnapEdges=false
 MapPosition=0,11,7
 SafariMap=false
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 [042]
 # gimnasio
 SnapEdges=true
 [044]
-# Ruta 5
+# Ruta 6
 MapSize=2,11
 MapPosition=0,11,10
 Outdoor=true
@@ -191,7 +191,7 @@ ShowArea=true
 # Ruta 6
 MapPosition=0,11,10
 Outdoor=true
-BicycleAlways=true
+BicycleAlways=false
 ShowArea=true
 [046]
 # Entrada Ruta Ciclista
@@ -333,27 +333,36 @@ ShowArea=true
 # Cabañas
 SnapEdges=true
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [078]
 # Santa Ana
 SnapEdges=true
 Bicycle=true
+MapPosition=0,11,6
+Outdoor=true
+HealingSpot=78,53,8
 ShowArea=true
 [079]
 # La Libertad
 SnapEdges=true
 Bicycle=true
+Outdoor=true
 ShowArea=true
 [080]
 # San Miguel
 SnapEdges=true
 Bicycle=true
 MapPosition=0,20,14
+Outdoor=true
 HealingSpot=80,39,19
 ShowArea=true
 [081]
 # San Salvador
 SnapEdges=true
 Bicycle=true
+MapPosition=0,12,10
 Outdoor=true
 ShowArea=true
+[099]
+# Tazumal
