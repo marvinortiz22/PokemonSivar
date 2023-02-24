@@ -1437,7 +1437,7 @@ Layla
 totodile,5
 #-------------------
 LEADER_KLEIN
-Klein,40
+Klein,1
 6
 TORKOAL,40,,,,,,1
 INFERNAPE,40
@@ -1447,7 +1447,7 @@ NINETALES,40
 CHARIZARD,40
 #-------------------
 LEADER_RADIANT
-Radiant,40
+Radiant,1
 6
 LUCARIO,40
 MACHAMP,40
@@ -1457,7 +1457,7 @@ MEDICHAM,40
 SCRAFTY,40
 #-------------------
 LEADER_YENISCE
-Yenisce,40
+Yenisce,1
 6
 NINETALES,40,,,,,,2,,1
 LAPRAS,40
@@ -1467,7 +1467,7 @@ MAMOSWINE,40
 DARMANITAN,40,,,,,,0,,1
 #-------------------
 LEADER_SAM
-Sam,40
+Sam,1
 6
 POLITOED,40
 GYARADOS,40
@@ -1477,7 +1477,7 @@ LUDICOLO,40
 BLASTOISE,40
 #-------------------
 LEADER_DALESSAR
-Dalessar,40
+Dalessar,1
 6
 AGGRON,40
 METAGROSS,40
@@ -1487,7 +1487,7 @@ EXCADRILL,40
 LUCARIO,40
 #-------------------
 LEADER_RABOS
-Rabos,40
+Rabos,1
 6
 CRADILY,40
 SHIFTRY,40
@@ -1497,7 +1497,7 @@ LUDICOLO,40
 EXEGGUTOR,40
 #-------------------
 LEADER_SHIDO_SOILZ
-Shido y Soilz,40
+Shido y Soilz,1
 6
 SPIRITOMB,40
 AEGISLASH,40
@@ -1507,7 +1507,7 @@ CHANDELURE,40
 GENGAR,40
 #-------------------
 LEADER_LEO
-Leo,40
+Leo,1
 6
 ELECTIVIRE,40,,ICEPUNCH,THUNDERPUNCH
 EELEKTROSS,40
@@ -1525,6 +1525,16 @@ LANDORUS,45
 VENUSAUR,45
 INFERNAPE,45
 GRENINJA,45
+
+
+
+
+
+
+
+
+
+
 
 
 
